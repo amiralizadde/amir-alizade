@@ -1,4 +1,4 @@
-<img align="center" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+<img align="center" width="100%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 <h1 align="center">Hi 👋, I'm amir alizade</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
