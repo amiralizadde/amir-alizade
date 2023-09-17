@@ -1,4 +1,5 @@
-![logo](https://github.com/amiralizadde/amiralizadde/blob/main/1000_F_463355068_Jk8Ja5iAPB6pti49IkvwWWVuoEo9BUSU.jpg)
+
+<img align="center" height="300px" width="100%"  src="https://github.com/amiralizadde/amiralizadde/blob/main/1000_F_463355068_Jk8Ja5iAPB6pti49IkvwWWVuoEo9BUSU.jpg"/>
 <h1 align="center">Hi 👋, I'm amir alizade</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
